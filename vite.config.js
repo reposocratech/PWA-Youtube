@@ -38,4 +38,5 @@ export default defineConfig({
 			},
 		}),
 	],
+	base: 'https://reposocratech.github.io/PWA-Youtube/',
 })
